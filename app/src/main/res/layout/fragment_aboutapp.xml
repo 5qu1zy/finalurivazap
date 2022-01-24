@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/img_2">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginBottom="8dp"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+
+        <TextView
+            android:id="@+id/textViewAbout"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="1dp"
+            android:layout_marginTop="5dp"
+            android:text="𝑻𝒉𝒊𝒔 𝒂𝒑𝒑𝒍𝒊𝒄𝒂𝒕𝒊𝒐𝒏 𝒊𝒔 𝒄𝒓𝒆𝒂𝒕𝒆𝒅 𝒕𝒐 𝒑𝒐𝒑𝒖𝒍𝒂𝒓𝒊𝒛𝒆 𝑮𝒆𝒐𝒓𝒈𝒊𝒂𝒏 𝒄𝒖𝒊𝒔𝒊𝒏𝒆 𝒂𝒏𝒅 𝑮𝒆𝒐𝒓𝒈𝒊𝒂𝒏 𝒄𝒖𝒍𝒕𝒖𝒓𝒆.  𝑰𝒏 𝒕𝒉𝒆 𝒂𝒑𝒑𝒍𝒊𝒄𝒂𝒕𝒊𝒐𝒏 𝒚𝒐𝒖 𝒄𝒂𝒏 𝒔𝒆𝒆 𝒂 𝒗𝒂𝒓𝒊𝒆𝒕𝒚 𝒐𝒇 𝑮𝒆𝒐𝒓𝒈𝒊𝒂𝒏 𝒅𝒊𝒔𝒉𝒆𝒔 𝒕𝒉𝒂𝒕 𝒂𝒓𝒆 𝒕𝒚𝒑𝒊𝒄𝒂𝒍 𝒊𝒏 𝑮𝒆𝒐𝒓𝒈𝒊𝒂𝒏 𝒄𝒖𝒊𝒔𝒊𝒏𝒆 𝒂𝒏𝒅 𝒉𝒆𝒓𝒆 𝒑𝒆𝒐𝒑𝒍𝒆 𝒐𝒇𝒕𝒆𝒏 𝒆𝒂𝒕 𝒕𝒉𝒆𝒎.  𝑻𝒉𝒊𝒔 𝒂𝒑𝒑 𝒘𝒊𝒍𝒍 𝒎𝒂𝒌𝒆 𝒕𝒉𝒆𝒔𝒆 𝒅𝒊𝒔𝒉𝒆𝒔 𝒑𝒐𝒑𝒖𝒍𝒂𝒓 𝒂𝒏𝒅 𝒊𝒏𝒕𝒓𝒐𝒅𝒖𝒄𝒆 𝒑𝒆𝒐𝒑𝒍𝒆 𝒐𝒇 𝒇𝒐𝒓𝒆𝒊𝒈𝒏 𝒏𝒂𝒕𝒊𝒐𝒏𝒂𝒍𝒊𝒕𝒚 𝒕𝒐 𝒍𝒆𝒂𝒓𝒏 𝒎𝒐𝒓𝒆 𝒂𝒃𝒐𝒖𝒕 𝑮𝒆𝒐𝒓𝒈𝒊𝒂. 𝒊𝒏 𝒕𝒉𝒆 𝒅𝒊𝒔𝒉𝒆𝒔 𝒑𝒂𝒈𝒆 𝒕𝒉𝒆𝒓𝒆 𝒂𝒓𝒆 𝒔𝒆𝒗𝒆𝒓𝒂𝒍 𝑮𝒆𝒐𝒓𝒈𝒊𝒂𝒏 𝒅𝒊𝒔𝒉𝒆𝒔 𝒘𝒊𝒕𝒉 𝒑𝒉𝒐𝒕𝒐𝒔 𝒂𝒏𝒅 𝒏𝒂𝒎𝒆𝒔 𝒐𝒇 𝒕𝒉𝒆𝒎.  𝒕𝒉𝒆𝒓 𝒕𝒉𝒆𝒏 𝒕𝒉𝒂𝒕 𝒂𝒑𝒑 𝒘𝒊𝒍𝒍 𝒉𝒆𝒍𝒑 𝒕𝒉𝒆 𝒗𝒊𝒔𝒊𝒕𝒊𝒏𝒈 𝒕𝒐𝒖𝒓𝒊𝒔𝒕 𝒕𝒐 𝒄𝒉𝒐𝒐𝒔𝒆 𝒘𝒉𝒂𝒕 𝒅𝒊𝒔𝒉 𝒕𝒐 𝒕𝒂𝒔𝒕𝒆 𝒘𝒉𝒊𝒍𝒆 𝒔𝒕𝒂𝒚𝒊𝒏𝒈 𝒊𝒏 𝒄𝒐𝒖𝒏𝒕𝒓𝒚.  𝑰𝒕 𝒘𝒊𝒍𝒍 𝒂𝒍𝒔𝒐 𝒂𝒕𝒕𝒓𝒂𝒄𝒕 𝒕𝒐𝒖𝒓𝒊𝒔𝒕𝒔 𝒂𝒏𝒅 𝒎𝒂𝒌𝒆 𝑮𝒆𝒐𝒓𝒈𝒊𝒂𝒏 𝒄𝒖𝒊𝒔𝒊𝒏𝒆 𝒎𝒐𝒓𝒆 𝒑𝒐𝒑𝒖𝒍𝒂𝒓."
+            android:textSize="20sp"
+            android:textColor="@color/black"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Creators:"
+            android:textStyle="bold"
+            android:textColor="#006400"
+            android:layout_marginTop="30dp"/>
+
+
+        <TextView
+            android:id="@+id/textView6"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#aa6c39"
+            android:textStyle="bold"
+            android:text="Demetre Abramishvili  -  Vakhtang Chitaia" />
+
+        <TextView
+            android:id="@+id/textView8"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#aa5061"
+            android:textStyle="bold"
+            android:text="HotLine - gvamushavet.sadme.2@senior.devops.ge" />
+
+        <ImageView
+            android:layout_width="300dp"
+            android:layout_height="150dp"
+            android:background="@drawable/img_1"
+            android:layout_marginTop="10dp"
+            android:layout_gravity="center"/>
+
+        <Button
+            android:id="@+id/buttonBack"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="25dp"
+            android:backgroundTint="#F3CFBB"
+            android:text="main page"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+
+
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>
