@@ -12,7 +12,7 @@ In order to use this app the only thing you need is to download the app and regi
 
 
 After registration or logging in there will be a botton and when you press it, it will take you to the page full of dishes.
-You just need to scrool and choose the one you would lie to have it is as simple as that.
+You just need to scrool and choose the one you would like to have it is as simple as that.
 
 #BUILT WITH
 
