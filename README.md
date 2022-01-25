@@ -1,11 +1,11 @@
-# TITLE
+# GOFU
 
 GOFU is an app that can be used when you dont know which georgian traditional food to order as a turist.
 This app will show you pictures of the dishes and names of then so you can choose easily.
 
 #GETTING STARTED 
 
-In order to use this the only thing you need to do is download the app and register your account.
+In order to use this app the only thing you need is to download the app and register your account.
 
 
 #HOW TO USE 
